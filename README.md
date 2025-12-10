@@ -12,7 +12,7 @@ Career-changer from education to tech infrastructure. Building foundational skil
 - 📚 Training with **CAPACITI** through comprehensive certifications and hands-on projects
 - 🌱 Currently learning **Kubernetes, Terraform, CI/CD pipelines, and Python**
 - 💡 Passionate about **reliable, scalable cloud infrastructure** and **intelligent automation**
-- 📍 Based in **Johannesburg, South Africa**
+- 📍 Based in **Pretoria, South Africa**
 - 🎯 Seeking **entry-level opportunities** in Cloud Engineering or DevOps
 
 ---
