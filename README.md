@@ -292,7 +292,7 @@ Programming        ██████░░░░ 60%  (Python, Bash)
 
 ## 📅 This Week I'm Focused On
 ```yaml
-week: December 2024
+week: December 2025
 learning:
   - Kubernetes networking deep dive
   - Terraform state management best practices
