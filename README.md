@@ -28,7 +28,7 @@
 
 **Current Role:** Cloud & DevOps Learner @ CAPACITI  
 **Previous Life:** Educator  
-**Location:** Johannesburg, South Africa  
+**Location:** Pretoria, South Africa  
 **Status:** Career Changer | Lifelong Learner | Cloud Enthusiast
 
 </td>
