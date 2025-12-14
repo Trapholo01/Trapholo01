@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Trapholo01&color=00D9FF&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Johannesburg%2C%20SA-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pretoria%2C%20SA-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge" />
 </p>
 
@@ -21,35 +21,62 @@
 ---
 
 ## 🚀 About Me
-```python
-class ThatoRapholo:
-    def __init__(self):
-        self.current_role = "Cloud & DevOps Learner @ CAPACITI"
-        self.previous_life = "Educator"
-        self.location = "Johannesburg, South Africa"
-        self.status = "Career Changer | Lifelong Learner | Cloud Enthusiast"
-        
-    def certifications(self):
-        return [
-            "☁️ AWS DevOps (Code, Build, Test)",
-            "☁️ AWS Cloud Practitioner",
-            "☁️ Google Cloud: Intro to Generative AI",
-            "☁️ Microsoft Power Platform Fundamentals",
-            "📊 Google Analytics"
-        ]
-    
-    def current_focus(self):
-        return {
-            "learning": ["Kubernetes", "Terraform", "Docker", "Python", "CI/CD"],
-            "building": ["Infrastructure Labs", "Automation Scripts", "Portfolio Projects"],
-            "goal": "Contributing to scalable, reliable cloud infrastructure"
-        }
-    
-    def fun_fact(self):
-        return "I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓➡️☁️"
 
-me = ThatoRapholo()
-```
+<table>
+<tr>
+<td>
+
+**Current Role:** Cloud & DevOps Learner @ CAPACITI  
+**Previous Life:** Educator  
+**Location:** Johannesburg, South Africa  
+**Status:** Career Changer | Lifelong Learner | Cloud Enthusiast
+
+</td>
+</tr>
+</table>
+
+### 📜 My Certifications
+- ☁️ AWS DevOps (Code, Build, Test)
+- ☁️ AWS Cloud Practitioner  
+- ☁️ Google Cloud: Intro to Generative AI
+- ☁️ Microsoft Power Platform Fundamentals
+- ☁️ Google Analytics
+
+### 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%"><strong>🌱 Learning</strong></td>
+<td width="33%"><strong>🔨 Building</strong></td>
+<td width="33%"><strong>🎯 Goal</strong></td>
+</tr>
+<tr>
+<td>
+  
+- Kubernetes<br/>
+- Terraform<br/>
+- Docker<br/>
+- Python<br/>
+- CI/CD
+
+</td>
+<td>
+  
+- Infrastructure Labs<br/>
+- Automation Scripts<br/>
+- Portfolio Projects
+
+</td>
+<td>
+  
+Contributing to scalable, reliable cloud infrastructure
+
+</td>
+</tr>
+</table>
+
+### ⚡ Fun Fact
+I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓➡️☁️
 
 ---
 
