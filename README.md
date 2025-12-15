@@ -282,7 +282,7 @@ Programming        ██████░░░░ 60%  (Python, Bash)
 - 🎓 **Career Changer:** From teaching ABCs to deploying APIs!
 - 📚 **Learning Style:** I explain cloud concepts like teaching 5-year-olds (seriously effective!)
 - ☁️ **Cloud Obsessed:** Completed 5 certifications in my transition journey
-- 🌍 **Location:** Johannesburg, but building for the world
+- 🌍 **Location:** Pretoria, but building for the world
 - 💪 **Superpower:** Turning complex technical jargon into plain English
 - ☕ **Fuel:** Curiosity, determination, and good coffee
 - 🚀 **Motto:** "Learn in public, fail fast, iterate faster"
@@ -292,7 +292,7 @@ Programming        ██████░░░░ 60%  (Python, Bash)
 
 ## 📅 This Week I'm Focused On
 ```yaml
-week: December 2025
+week: 15-19 December 2025
 learning:
   - Kubernetes networking deep dive
   - Terraform state management best practices
