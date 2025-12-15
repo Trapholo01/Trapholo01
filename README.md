@@ -1,23 +1,3 @@
-## 🎯 My Tech Journey
-```mermaid
-mindmap
-  root((Thato<br/>Rapholo))
-    Cloud
-      AWS
-      Google Cloud
-      Azure
-    DevOps
-      Docker
-      Kubernetes
-      Terraform
-      CI/CD
-    Programming
-      Python
-      Bash
-    Background
-      Education
-      Analytics
-```
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thato+Rapholo;Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Google+Cloud+Certified;From+Education+to+Infrastructure" alt="Typing SVG" />
 </h1>
@@ -58,36 +38,11 @@ mindmap
 ## 🏆 Certifications & Achievements
 
 ### 📜 My Certifications
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/>
-      <br/><strong>AWS Cloud Practitioner</strong>
-      <br/>
-      <a href="YOUR_CREDLY_BADGE_URL">
-        <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120px"/>
-      <br/><strong>AWS DevOps</strong>
-      <br/>
-      <a href="YOUR_CREDLY_BADGE_URL">
-        <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="PATH_TO_GOOGLE_CLOUD_BADGE" width="120px"/>
-      <br/><strong>Google Cloud GenAI</strong>
-      <br/>
-      <a href="YOUR_CREDENTIAL_URL">
-        <img src="https://img.shields.io/badge/View_Credential-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-```
+- ☁️ AWS DevOps (Code, Build, Test)
+- ☁️ AWS Cloud Practitioner  
+- ☁️ Google Cloud: Intro to Generative AI
+- ☁️ Microsoft Power Platform Fundamentals
+- ☁️ Google Analytics
 
 
 ### 🎯 Current Focus
