@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Trapholo01&color=00D9FF&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pretoria%2C%20SA-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pretoria%2C%20RSA-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge" />
 </p>
 
@@ -35,12 +35,40 @@
 </tr>
 </table>
 
+## 🏆 Certifications & Achievements
+
 ### 📜 My Certifications
-- ☁️ AWS DevOps (Code, Build, Test)
-- ☁️ AWS Cloud Practitioner  
-- ☁️ Google Cloud: Intro to Generative AI
-- ☁️ Microsoft Power Platform Fundamentals
-- ☁️ Google Analytics
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/>
+      <br/><strong>AWS Cloud Practitioner</strong>
+      <br/>
+      <a href="YOUR_CREDLY_BADGE_URL">
+        <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120px"/>
+      <br/><strong>AWS DevOps</strong>
+      <br/>
+      <a href="YOUR_CREDLY_BADGE_URL">
+        <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="PATH_TO_GOOGLE_CLOUD_BADGE" width="120px"/>
+      <br/><strong>Google Cloud GenAI</strong>
+      <br/>
+      <a href="YOUR_CREDENTIAL_URL">
+        <img src="https://img.shields.io/badge/View_Credential-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+```
+
 
 ### 🎯 Current Focus
 
