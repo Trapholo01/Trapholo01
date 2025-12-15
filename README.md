@@ -19,6 +19,10 @@
 </div>
 
 ---
+### 📚 Cloud Learning Notes
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" />
+</p>
 
 ## 🚀 About Me
 
