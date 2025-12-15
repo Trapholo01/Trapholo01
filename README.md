@@ -86,7 +86,7 @@ I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓
 ### 🌐 Portfolio Website
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-  <a href="https://trapholo01.github.io/portfolio-website/">
+  <a href="https://trapholo01.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Visit-Website-00D9FF?style=flat-square" />
   </a>
 </p>
