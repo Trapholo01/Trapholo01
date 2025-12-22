@@ -97,7 +97,25 @@ I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓
   <strong>Tech:</strong> HTML5, CSS3, JavaScript, GitHub Pages
 </p>
 ```
+## 🌐 Live Deployments
 
+This portfolio is deployed on multiple cloud platforms:
+
+### GitHub Pages
+**URL:** https://trapholo01.github.io/portfolio-website  
+**Status:** ✅ Live  
+**Deployment:** Automatic via GitHub Pages  
+
+### AWS S3 Static Website
+**URL:** http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/  
+**Status:** ✅ Live  
+**Services Used:** Amazon S3  
+**Region:** EU North (Stockholm)  
+**Next:** Adding CloudFront CDN for global delivery
+
+### Microsoft Azure (Coming Soon)
+**Status:** ⏳ In Progress  
+**Service:** Azure Static Web Apps
 ---
 ## 🛤️ My Learning Journey
 ```mermaid
