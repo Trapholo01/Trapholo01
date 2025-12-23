@@ -96,13 +96,13 @@ I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓
 <p align="center">
   <strong>Tech:</strong> HTML5, CSS3, JavaScript, GitHub Pages
 </p>
-```
+
 ### 🌐 Live Deployments
 
 This portfolio is deployed on multiple cloud platforms:
 
 ### GitHub Pages
-**URL:** https://trapholo01.github.io/portfolio 
+**URL:** https://trapholo01.github.io/portfolio
 **Status:** ✅ Live  
 **Deployment:** Automatic via GitHub Pages  
 **Cost:** Free
