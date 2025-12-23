@@ -103,6 +103,7 @@ This portfolio is deployed on multiple cloud platforms:
 
 ### GitHub Pages
 **URL:** https://trapholo01.github.io/portfolio
+
 **Status:** ✅ Live  
 **Deployment:** Automatic via GitHub Pages  
 **Cost:** Free
