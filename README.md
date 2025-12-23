@@ -105,18 +105,31 @@ This portfolio is deployed on multiple cloud platforms:
 **URL:** https://trapholo01.github.io/portfolio-website  
 **Status:** ✅ Live  
 **Deployment:** Automatic via GitHub Pages  
+**Cost:** Free
 
 ### AWS S3 Static Website
 **URL:** http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/  
 **Status:** ✅ Live  
-**Services Used:** Amazon S3  
+**Services Used:** Amazon S3, Bucket Policies  
 **Region:** EU North (Stockholm)  
-**Next:** Adding CloudFront CDN for global delivery
+**Cost:** Free (AWS Free Tier)  
+**Next Phase:** CloudFront CDN + HTTPS
 
-### Microsoft Azure (Coming Soon)
+### Microsoft Azure Static Web Apps
 **Status:** ⏳ In Progress  
-**Service:** Azure Static Web Apps
+**Planned:** Azure Static Web Apps deployment
+
 ---
+
+### 📊 Deployment Comparison
+
+| Platform | Status | URL | Technologies | HTTPS | CDN |
+|----------|--------|-----|--------------|-------|-----|
+| GitHub Pages | ✅ Live | [Visit](https://trapholo01.github.io/portfolio-website) | GitHub, Git | ✅ | ✅ |
+| AWS S3 | ✅ Live | [Visit](http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/) | S3, Bucket Policies | ⏳ Phase 2 | ⏳ Phase 2 |
+| Azure | ⏳ Planned | Coming soon | Static Web Apps | - | - |
+```
+
 ## 🛤️ My Learning Journey
 ```mermaid
 graph LR
