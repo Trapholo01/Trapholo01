@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thato+Rapholo;Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Google+Cloud+Certified;From+Education+to+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thato+Rapholo;Emerging+Cloud+%26+DevOps+Engineer;From+Education+to+Infrastructure" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,10 +39,15 @@
 
 ### 📜 My Certifications
 - ☁️ AWS DevOps (Code, Build, Test)
-- ☁️ AWS Cloud Practitioner  
-- ☁️ Google Cloud: Intro to Generative AI
+- ☁️ AWS Cloud Practitioner Essentials
+- ☁️ Google Cloud: Introduction to Generative AI
 - ☁️ Microsoft Power Platform Fundamentals
 - ☁️ Google Analytics
+- ☁️ Agile with Atlassian Jira
+- ☁️ Cloud Architecture Design Patterns
+- ☁️ AWS Cloud Technical Essentials
+- ☁️ Generative AI with Large Language Models
+- ☁️ Introduction to Data Engineering
 
 
 ### 🎯 Current Focus
@@ -115,6 +120,13 @@ This portfolio is deployed on multiple cloud platforms:
 **Region:** EU North (Stockholm)  
 **Cost:** Free (AWS Free Tier)  
 **Next Phase:** CloudFront CDN + HTTPS
+
+### Production CloudFront Distribution
+**URL:** https://ddj6jvqxzj0e2.cloudfront.net/  
+**Status:** ✅ Live  
+**Services Used:** Amazon S3, Bucket Policies  
+**Region:** EU North (Stockholm)  
+**Cost:** Free (AWS Free Tier)  
 
 ### Microsoft Azure Static Web Apps
 **Status:** ⏳ In Progress  
