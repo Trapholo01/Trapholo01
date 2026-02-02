@@ -140,6 +140,7 @@ This portfolio is deployed on multiple cloud platforms:
 |----------|--------|-----|--------------|-------|-----|
 | GitHub Pages | ✅ Live | [Visit](https://trapholo01.github.io/portfolio-website) | GitHub, Git | ✅ | ✅ |
 | AWS S3 | ✅ Live | [Visit](http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/) | S3, Bucket Policies | ⏳ Phase 2 | ⏳ Phase 2 |
+| AWS CloudFront | ✅ Live | [Visit](https://ddj6jvqxzj0e2.cloudfront.net/) | S3, Bucket Policies |✅  |✅  |
 | Azure | ⏳ Planned | Coming soon | Static Web Apps | - | - |
 ```
 
