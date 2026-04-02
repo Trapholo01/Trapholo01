@@ -5,8 +5,8 @@
 ### Cloud & Infrastructure Engineer | AWS · GCP | Johannesburg, South Africa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato_Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-rapholo)
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
-[![GCP](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat)](mailto:rapholothato3@gmail.com)
 
 </div>
