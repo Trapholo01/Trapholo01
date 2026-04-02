@@ -4,9 +4,9 @@
 
 ### Cloud & Infrastructure Engineer | AWS · GCP | Johannesburg, South Africa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato_Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatorapholo)
-[![AWS]
-[![GCP]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-rapholo)
+[![AWS] 
+[![GCP] 
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat)](mailto:rapholothato3@gmail.com)
 
 </div>
@@ -74,7 +74,7 @@ I'm actively looking for my first role in cloud engineering, infrastructure, or 
 ## What I'm Working On
 
 - 🔨 Building out my cloud portfolio with real-world projects
-- 📖 Preparing for the **AWS Certified Solutions Architect – Associate** exam
+- 📖 Preparing for the **AWS Certified Cloud Practitioner** exam
 - 🌱 Deepening my knowledge of Kubernetes and containerised workloads (GKE)
 
 ---
