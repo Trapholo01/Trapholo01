@@ -5,9 +5,9 @@
 ### Cloud & Infrastructure Engineer | AWS · GCP | Johannesburg, South Africa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato_Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatorapholo)
-[![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com)
-[![GCP](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat)](mailto:thato@email.com)
+[![AWS]
+[![GCP]
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat)](mailto:rapholothato3@gmail.com)
 
 </div>
 
@@ -23,7 +23,7 @@ I'm actively looking for my first role in cloud engineering, infrastructure, or 
 - ☁️ Multi-cloud: **AWS + GCP**
 - 🎯 Goal: Cloud / Infrastructure Engineer role
 - 📜 Certified: **Infrastructure Engineer SFIA** (CAPACITI × Coursera, March 2026)
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/thatorapholo)
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/thato-rapholo)
 
 ---
 
@@ -85,7 +85,7 @@ I'm open to cloud engineering, infrastructure, or DevOps roles — junior or gra
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatorapholo)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-rapholo)
 
 </div>
 
