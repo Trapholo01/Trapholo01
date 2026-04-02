@@ -1,427 +1,96 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thato+Rapholo;Emerging+Cloud+%26+DevOps+Engineer;From+Education+to+Infrastructure" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trapholo01&color=00D9FF&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pretoria%2C%20RSA-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge" />
-</p>
-
-<div align="center">
-  
-  ### 💭 My Journey
-  
-  *"From teaching classroom foundations to building cloud infrastructure—*  
-  *bringing structure, reliability, and accessibility to digital systems."*
-  
-</div>
-
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td>
-
-**Current Role:** Cloud & DevOps Learner @ CAPACITI  
-**Previous Life:** Educator  
-**Location:** Pretoria, South Africa  
-**Status:** Career Changer | Lifelong Learner | Cloud Enthusiast
-
-</td>
-</tr>
-</table>
-
-## 🏆 Certifications & Achievements
-
-### 📜 My Certifications
-- ☁️ AWS DevOps (Code, Build, Test)
-- ☁️ AWS Cloud Practitioner Essentials
-- ☁️ Google Cloud: Introduction to Generative AI
-- ☁️ Microsoft Power Platform Fundamentals
-- ☁️ Google Analytics
-- ☁️ Agile with Atlassian Jira
-- ☁️ Cloud Architecture Design Patterns
-- ☁️ AWS Cloud Technical Essentials
-- ☁️ Generative AI with Large Language Models
-- ☁️ Introduction to Data Engineering
-
-
-### 🎯 Current Focus
-
-<table>
-<tr>
-<td width="33%"><strong>🌱 Learning</strong></td>
-<td width="33%"><strong>🔨 Building</strong></td>
-<td width="33%"><strong>🎯 Goal</strong></td>
-</tr>
-<tr>
-<td>
-  
-- Kubernetes<br/>
-- Terraform<br/>
-- Docker<br/>
-- Python<br/>
-- CI/CD
-
-</td>
-<td>
-  
-- Infrastructure Labs<br/>
-- Automation Scripts<br/>
-- Portfolio Projects
-
-</td>
-<td>
-  
-Contributing to scalable, reliable cloud infrastructure
-
-</td>
-</tr>
-</table>
-
-### ⚡ Fun Fact
-I explain Kubernetes like I'm teaching 5-year-olds (and it actually works!) 🎓➡️☁️
-
----
-
-### 🌐 Portfolio Website
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-  <a href="https://trapholo01.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Visit-Website-00D9FF?style=flat-square" />
-  </a>
-</p>
-<p align="center">
-  Professional portfolio showcasing my cloud journey, certifications, and projects.
-</p>
-<p align="center">
-  <strong>Tech:</strong> HTML5, CSS3, JavaScript, GitHub Pages
-</p>
-
-### 🌐 Live Deployments
-
-This portfolio is deployed on multiple cloud platforms:
-
-### GitHub Pages
-**URL:** https://trapholo01.github.io/portfolio
-
-**Status:** ✅ Live  
-**Deployment:** Automatic via GitHub Pages  
-**Cost:** Free
-
-### AWS S3 Static Website
-**URL:** http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/  
-**Status:** ✅ Live  
-**Services Used:** Amazon S3, Bucket Policies  
-**Region:** EU North (Stockholm)  
-**Cost:** Free (AWS Free Tier)  
-**Next Phase:** CloudFront CDN + HTTPS
-
-### Production CloudFront Distribution
-**URL:** https://ddj6jvqxzj0e2.cloudfront.net/  
-**Status:** ✅ Live  
-**Services Used:** Amazon S3, Bucket Policies  
-**Region:** EU North (Stockholm)  
-**Cost:** Free (AWS Free Tier)  
-
-### Microsoft Azure Static Web Apps
-**Status:** ⏳ In Progress  
-**Planned:** Azure Static Web Apps deployment
-
----
-
-### 📊 Deployment Comparison
-
-| Platform | Status | URL | Technologies | HTTPS | CDN |
-|----------|--------|-----|--------------|-------|-----|
-| GitHub Pages | ✅ Live | [Visit](https://trapholo01.github.io/portfolio-website) | GitHub, Git | ✅ | ✅ |
-| AWS S3 | ✅ Live | [Visit](http://thato-portfolio-website.s3-website.eu-north-1.amazonaws.com/) | S3, Bucket Policies | ⏳ Phase 2 | ⏳ Phase 2 |
-| AWS CloudFront | ✅ Live | [Visit](https://ddj6jvqxzj0e2.cloudfront.net/) | S3, Bucket Policies |✅  |✅  |
-| Azure | ⏳ Planned | Coming soon | Static Web Apps | - | - |
-```
-
-## 🛤️ My Learning Journey
-```mermaid
-graph LR
-    A[🎓 Education<br/>Background] -->|Career Change| B[📚 CAPACITI<br/>Training]
-    B -->|Certifications| C[☁️ AWS]
-    B -->|Certifications| D[☁️ Google Cloud]
-    B -->|Certifications| E[☁️ Microsoft]
-    C --> F[💼 Cloud & DevOps<br/>Career]
-    D --> F
-    E --> F
-    F --> G[🚀 Building<br/>the Future]
-    style F fill:#00D9FF
-```
-
----
-
-## 🏆 Certifications & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trapholo01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
----
-
-## 🛠️ Technical Arsenal
-
 <div align="center">
 
-### Cloud Platforms
+# Hey, I'm Thato Rapholo 👋
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### Cloud & Infrastructure Engineer | AWS · GCP | Johannesburg, South Africa
 
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Languages & Scripting
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-</div>
-
-**Current Skill Levels:**
-```text
-Cloud Platforms    ████████░░ 80%  (AWS, GCP, Azure fundamentals)
-Containers         ███████░░░ 70%  (Docker proficient, learning K8s)
-IaC & Automation   ██████░░░░ 60%  (Terraform, scripting)
-CI/CD              █████░░░░░ 50%  (Building first pipelines)
-Programming        ██████░░░░ 60%  (Python, Bash)
-```
-
----
-
-## 🗺️ My Learning Roadmap
-
-### ✅ Completed
-- [x] AWS Cloud Practitioner Essentials
-- [x] AWS DevOps (Code, Build, Test)
-- [x] Google Cloud: Intro to Generative AI
-- [x] Microsoft Power Platform Fundamentals
-- [x] Google Analytics Certification
-
-### 🔄 In Progress
-- [ ] Kubernetes Administration
-- [ ] Terraform Deep Dive
-- [ ] Building CI/CD Pipelines
-- [ ] Python for DevOps
-
-### 🎯 Coming Next
-- [ ] Docker Mastery
-- [ ] AWS Solutions Architect
-- [ ] Advanced K8s Patterns
-- [ ] Site Reliability Engineering
-
----
-
-## 🚀 What I'm Building
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☁️ AWS Infrastructure Labs</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
-      </p>
-      <p align="center">
-        Building scalable VPC architecture with Terraform, implementing best practices for security and high availability.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> AWS, Terraform, VPC, EC2, S3
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 CI/CD Pipeline Demo</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Planning-blue?style=flat-square" />
-      </p>
-      <p align="center">
-        Automated deployment pipeline with GitHub Actions, Docker containers, and AWS deployment.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> GitHub Actions, Docker, AWS ECS
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 DevOps Automation Scripts</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-green?style=flat-square" />
-      </p>
-      <p align="center">
-        Collection of Python and Bash scripts for common DevOps tasks and infrastructure automation.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> Python, Bash, AWS CLI
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Cloud Learning Notes</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" />
-      </p>
-      <p align="center">
-        Documenting my cloud journey—concepts, labs, and lessons learned. Learning in public!
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> Markdown, Documentation
-      </p>
-    </td>
-  </tr>
-</table>
-
-*More projects coming soon as I build and learn!*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trapholo01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Trapholo01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trapholo01&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trapholo01&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 💡 What Makes Me Different
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/knowledge-sharing.png" width="60px"/>
-      <br /><strong>Fresh Perspective</strong>
-      <br />Education background brings user-centered thinking to infrastructure
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/growing-money.png" width="60px"/>
-      <br /><strong>Growth Mindset</strong>
-      <br />Proven ability to learn complex systems through career transition
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/communication.png" width="60px"/>
-      <br /><strong>Communication</strong>
-      <br />Can explain technical concepts clearly (like teaching!)
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/goal--v1.png" width="60px"/>
-      <br /><strong>Committed</strong>
-      <br />5 certifications and counting—dedication speaks volumes
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Fun Facts About Me
-
-- 🎓 **Career Changer:** From teaching ABCs to deploying APIs!
-- 📚 **Learning Style:** I explain cloud concepts like teaching 5-year-olds (seriously effective!)
-- ☁️ **Cloud Obsessed:** Completed 5 certifications in my transition journey
-- 🌍 **Location:** Pretoria, but building for the world
-- 💪 **Superpower:** Turning complex technical jargon into plain English
-- ☕ **Fuel:** Curiosity, determination, and good coffee
-- 🚀 **Motto:** "Learn in public, fail fast, iterate faster"
-- 🎯 **Mission:** Making cloud infrastructure accessible and reliable for everyone
-
----
-
-## 📅 This Week I'm Focused On
-```yaml
-week: 15-19 December 2025
-learning:
-  - Kubernetes networking deep dive
-  - Terraform state management best practices
-  - Python automation for AWS tasks
-building:
-  - Multi-tier AWS VPC architecture
-  - GitHub Actions CI/CD workflow
-  - DevOps automation script library
-reading:
-  - "The Phoenix Project" by Gene Kim
-  - AWS Well-Architected Framework
-next_cert: "Kubernetes CKA"
-mood: "Excited and making progress! 💪"
-```
-
----
-
-## 🎮 Choose Your Path
-
-<div align="center">
-
-**What would you like to explore?**
-
-[📜 View Certifications](#-certifications--achievements) • 
-[🛠️ See Tech Stack](#%EF%B8%8F-technical-arsenal) • 
-[🚀 Check Projects](#-what-im-building) • 
-[📖 Read My Story](#-about-me) • 
-[🤝 Let's Connect](#-lets-connect)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato_Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatorapholo)
+[![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com)
+[![GCP](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat)](mailto:thato@email.com)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thato-rapholo/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rapholothato3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Trapholo01">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm a cloud engineer passionate about building secure, scalable, and cost-effective infrastructure on AWS and Google Cloud Platform. I completed the **Infrastructure Engineer SFIA** programme through CAPACITI × Coursera, where I gained hands-on experience across both major cloud platforms.
+
+I'm actively looking for my first role in cloud engineering, infrastructure, or DevOps where I can contribute, grow, and keep learning.
+
+- 🌍 Based in **Johannesburg, South Africa**
+- ☁️ Multi-cloud: **AWS + GCP**
+- 🎯 Goal: Cloud / Infrastructure Engineer role
+- 📜 Certified: **Infrastructure Engineer SFIA** (CAPACITI × Coursera, March 2026)
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/thatorapholo)
+
+---
+
+## Cloud Skills
+
+### Amazon Web Services (AWS)
+![EC2](https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Storage-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-Networking-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-Analytics-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-Data_ETL-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Google Cloud Platform (GCP)
+![Compute Engine](https://img.shields.io/badge/Compute_Engine-VMs-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-GCS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-Serverless-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-Kubernetes-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-Networking-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Description | Cloud | Stack |
+|---|---|---|---|
+| 🌐 [Static Portfolio Site](#) | Personal site hosted on S3 with CloudFront CDN | AWS | S3, CloudFront, Route 53 |
+| 🔒 [Secure VPC Architecture](#) | Multi-tier VPC with public/private subnets & bastion host | AWS | EC2, VPC, IAM |
+| ⚡ [Serverless Contact Form](#) | Contact form powered by Lambda + API Gateway + SES | AWS | Lambda, API Gateway, IAM |
+| 📊 [BigQuery Data Dashboard](#) | Public dataset loaded into BigQuery with Looker Studio viz | GCP | BigQuery, Cloud Storage, Looker |
+| ☁️ [Multi-Cloud Storage Sync](#) | File sync between AWS S3 and GCP Cloud Storage | AWS + GCP | S3, GCS, Lambda |
+
+> 💡 Each project repo includes an architecture diagram, deployment guide, and key learnings.
+
+---
+
+## Certifications & Badges
+
+| Badge | Issuer | Date |
+|---|---|---|
+| 🏅 Infrastructure Engineer SFIA | CAPACITI × Coursera | March 2026 |
+
+---
+
+## What I'm Working On
+
+- 🔨 Building out my cloud portfolio with real-world projects
+- 📖 Preparing for the **AWS Certified Solutions Architect – Associate** exam
+- 🌱 Deepening my knowledge of Kubernetes and containerised workloads (GKE)
+
+---
+
+## Let's Connect
+
+I'm open to cloud engineering, infrastructure, or DevOps roles — junior or graduate level. If you're hiring or know of an opportunity, I'd love to hear from you!
 
 <div align="center">
-  
-  ### 💬 Open to Opportunities
-  
-  I'm actively seeking **entry-level Cloud Engineer or DevOps** roles where I can contribute, learn, and grow.  
-  If you're building reliable, scalable systems and value fresh perspectives, let's talk!
-  
-  ---
-  
-  💭 *"Every expert was once a beginner who refused to give up."*  
-  **I'm documenting my journey from education to cloud infrastructure—one commit at a time.**
-  
-  ⭐️ **From [Trapholo01](https://github.com/Trapholo01)** | Built with 💙 and lots of ☕
-  
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatorapholo)
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <sub>☁️ Building in the cloud, one project at a time.</sub>
+</div>
