@@ -2,7 +2,7 @@
 
 # Hey, I'm Thato Rapholo 👋
 
-### Cloud & Infrastructure Engineer | AWS · GCP | Johannesburg, South Africa
+### Cloud & Infrastructure Engineer | AWS · GCP | Pretoria, South Africa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thato_Rapholo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-rapholo)
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
