@@ -19,7 +19,7 @@ I'm a cloud engineer passionate about building secure, scalable, and cost-effect
 
 I'm actively looking for my first role in cloud engineering, infrastructure, or DevOps where I can contribute, grow, and keep learning.
 
-- 🌍 Based in **Johannesburg, South Africa**
+- 🌍 Based in **Pretoria, South Africa**
 - ☁️ Multi-cloud: **AWS + GCP**
 - 🎯 Goal: Cloud / Infrastructure Engineer role
 - 📜 Certified: **Infrastructure Engineer SFIA** (CAPACITI × Coursera, March 2026)
